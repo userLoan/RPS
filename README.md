@@ -1,2 +1,4 @@
 # RPS
-using Makov Chain and RNN
+
+![Uploading image.png…]()
+
